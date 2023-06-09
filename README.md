@@ -1,4 +1,5 @@
-# ev
+# EVALUACIÓN FINAL MODULO 6 VUE
+Components, views, methods, directivas, router, lazy-loading, rutas dinamicas, estaticas, props
 
 ## Project setup
 ```
